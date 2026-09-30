@@ -4,7 +4,7 @@ A full-featured advertising network that connects **publishers** (website owners
 
 🔗 **Live:** [cpmbid.com](https://cpmbid.com)  ·  🧪 **Custom build (beta):** [tts.cpmbid.com](https://tts.cpmbid.com)
 
-> ⚙️ I operate the live platform (280+ registered users, 192+ websites submitted for monetization) and am engineering a fully custom replacement platform from scratch. This repo documents the custom build.
+> ⚙️ I operate the live platform (400+ registered users, 80+ websites submitted for monetization) and am engineering a fully custom replacement platform from scratch. This repo documents the custom build.
 
 ---
 
