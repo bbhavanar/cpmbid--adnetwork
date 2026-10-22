@@ -1,3 +1,5 @@
+> 🔒 **Source code is private.** CpmBid is a live production service with real users and real payouts, so this repo documents what it does and how it's built. See it running at [cpmbid.com](https://cpmbid.com). Happy to walk through the code on a call.
+
 # CPMBid — Advertising Network Platform
 
 A full-featured advertising network that connects **publishers** (website owners who want to monetize traffic) with **advertisers**, with built-in earnings management, targeting, and fraud detection.
